@@ -1,10 +1,13 @@
 
 ## Exam Analysis Skill 介绍
+
+问题反馈邮箱：2082398289@qq.com
+
 v1版本：[exam-analysis-skill.zip](https://github.com/user-attachments/files/29580887/exam-analysis-skill.zip)
 
-v2版本；[exam-analysis-skill.zip](https://github.com/user-attachments/files/29583217/exam-analysis-skill.zip)（原有的基础上新增多本教材识别）
+v2版本：[exam-analysis-skill.zip](https://github.com/user-attachments/files/29583217/exam-analysis-skill.zip)（原有的基础上新增多本教材识别）
 
-v3.0版本；[exam-analysis-skill.zip](https://github.com/user-attachments/files/29623746/exam-analysis-skill.zip)（添加了更多严格的限制，防止AI幻视）
+v3.0版本：[exam-analysis-skill.zip](https://github.com/user-attachments/files/29623746/exam-analysis-skill.zip)（添加了更多严格的限制，防止AI幻视）
 
 
 
