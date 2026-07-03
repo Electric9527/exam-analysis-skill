@@ -109,5 +109,7 @@ exam-analysis-skill.zip
 ```
 
 ### 使用示例
+[使用示例.zip](https://github.com/user-attachments/files/29641569/default.zip)
 
+## 被理想院校录取以后发送录取通知书到我邮箱，让我也开心开心，邮箱：2082398289@qq.com
 
