@@ -4,6 +4,9 @@ v1版本：[exam-analysis-skill.zip](https://github.com/user-attachments/files/2
 
 v2版本；[exam-analysis-skill.zip](https://github.com/user-attachments/files/29583217/exam-analysis-skill.zip)（原有的基础上新增多本教材识别）
 
+v3.0版本；[exam-analysis-skill.zip](https://github.com/user-attachments/files/29623746/exam-analysis-skill.zip)（添加了更多严格的限制，防止AI幻视）
+
+
 
 这是一个**全学段考试试卷深度分析与备考指导**的专业技能包，适用于从小学到高等教育的所有学科。核心功能是帮你对考试试卷进行专业级的逆向分析，提供精准的备考策略。
 
