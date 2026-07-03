@@ -38,7 +38,7 @@ v3.0版本：[exam-analysis-skill.zip](https://github.com/user-attachments/files
 ##### 示例如下：
 [电路-考研-试卷分析报告-2026-07-02.pdf](https://github.com/user-attachments/files/29580664/-.-.-2026-07-02.pdf)（腾讯Marvis生成）
 
-[电路两套试卷深度分析与备考指导报告.pdf](https://github.com/user-attachments/files/29623790/default.pdf) （Claude生成）
+[电路两套试卷深度分析与备考指导报告.pdf](https://github.com/user-attachments/files/29623790/default.pdf) （Claude-Sonnet-5-Max生成）
 
 #### 多卷交叉分析（5个模块）
 12. **知识点频率与权重汇总** - 跨卷知识点统计与排名
