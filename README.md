@@ -9,6 +9,8 @@ v2版本：[exam-analysis-skill.zip](https://github.com/user-attachments/files/2
 
 v3.0版本：[exam-analysis-skill.zip](https://github.com/user-attachments/files/29623746/exam-analysis-skill.zip)（添加了更多严格的限制，防止AI幻视）
 
+v3.1版本：[exam-analysis-skill.zip](https://github.com/user-attachments/files/29639907/exam-analysis-skill.zip)（增加用户手动选择是否复检，区别于原始版本中的ai自检。更强大、更严格）
+
 
 
 这是一个**全学段考试试卷深度分析与备考指导**的专业技能包，适用于从小学到高等教育的所有学科。核心功能是帮你对考试试卷进行专业级的逆向分析，提供精准的备考策略。
@@ -42,10 +44,17 @@ v3.0版本：[exam-analysis-skill.zip](https://github.com/user-attachments/files
 9. **单卷备考优先级** - 知识点复习优先级分类
 10. **分析说明** - 局限性说明与基准依据
 11. **自查与复核报告** - 迭代式自检循环（确保零缺陷）
-##### 示例如下：
-[电路-考研-试卷分析报告-2026-07-02.pdf](https://github.com/user-attachments/files/29580664/-.-.-2026-07-02.pdf)（腾讯Marvis生成）
+##### 示例如下（以下均为v3.1版本先前版本示例）：
+[电路-考研-试卷分析报告-2026-07-02.pdf](https://github.com/user-attachments/files/29580664/-.-.-2026-07-02.pdf)（腾讯Marvis生成）（验证初代版本是否达到核心目的示例）
 
-[电路两套试卷深度分析与备考指导报告.pdf](https://github.com/user-attachments/files/29623790/default.pdf) （Claude-Sonnet-5-Max生成）
+[电路两套试卷深度分析与备考指导报告.pdf](https://github.com/user-attachments/files/29623790/default.pdf) （Claude-Sonnet-5-Max生成）（验证多文件、其他agent是否兼容示例）
+
+[数学-考研数学二-试卷分析报告-修正版-2026-07-03.pdf](https://github.com/user-attachments/files/29640122/-.-.-.-2026-07-03.pdf)（腾讯Marvis生成）（验证多教材、多文件示例）
+
+**v3.1及其以后版本示例**
+
+[电路-考研模拟月考-试卷分析报告-2026-07-03.pdf](https://github.com/user-attachments/files/29640106/-.-.-2026-07-03.pdf)（腾讯Marvis生成）（验证复检机制是否生效示例）
+
 
 #### 多卷交叉分析（5个模块）
 12. **知识点频率与权重汇总** - 跨卷知识点统计与排名
